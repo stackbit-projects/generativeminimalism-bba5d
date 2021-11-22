@@ -6,7 +6,7 @@ sections:
     section_id: hero
     title: minimalist code based art
     content: |
-      Curated by [r0zk0](http://twitter.com/r0zk0)
+      curated by [r0zk0](http://twitter.com/r0zk0)
   - type: portfolio_section
     section_id: latest-projects
     layout_style: tiles
